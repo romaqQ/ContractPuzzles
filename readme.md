@@ -1,3 +1,5 @@
+# Week 5 - (Mini-Exercise) - Ethereum Bootcamp
+
 ## Contract Puzzles
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
